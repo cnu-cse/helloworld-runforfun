@@ -1,4 +1,4 @@
 # HelloWorld
-### Student ID
-### Student Name
-### Email address
+### Student ID: 2003....
+### Student Name: Youngseok Lee 
+### Email address: yslee@cs-cnu.org
